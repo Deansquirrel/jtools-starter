@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-starter</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <name>tools-starter</name>
   <url>https://github.com/Deansquirrel/jtools-starter</url>
   <description>tools starter</description>
@@ -47,6 +47,7 @@
     <tools.http>0.1.0</tools.http>
     <tools.swagger>0.1.0</tools.swagger>
     <tools.secret>0.1.0</tools.secret>
+    <tools.apache.poi>0.1.0</tools.apache.poi>
   </properties>
 
   <dependencyManagement>
@@ -80,6 +81,11 @@
         <groupId>com.github.deansquirrel</groupId>
         <artifactId>tools-secret</artifactId>
         <version>${tools.secret}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.deansquirrel</groupId>
+        <artifactId>tools-apache-poi</artifactId>
+        <version>${tools.apache.poi}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
