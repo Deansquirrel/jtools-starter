@@ -5,11 +5,11 @@
   <parent>
     <groupId>com.github.deansquirrel</groupId>
     <artifactId>tools-parent</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <artifactId>tools-starter</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>tools-starter</name>
   <url>https://github.com/Deansquirrel/jtools-starter</url>
   <description>tools starter</description>
