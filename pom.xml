@@ -9,7 +9,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <artifactId>tools-starter</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>tools-starter</name>
   <url>https://github.com/Deansquirrel/jtools-starter</url>
   <description>tools starter</description>
@@ -43,7 +43,7 @@
     <tools.common>1.0.1</tools.common>
     <tools.swagger>1.0.0</tools.swagger>
     <tools.http>1.0.0</tools.http>
-    <tools.secret>1.0.0</tools.secret>
+    <tools.secret>1.1.0</tools.secret>
     <tools.db.sqlite>1.0.0</tools.db.sqlite>
     <tools.db.mysql>1.0.0</tools.db.mysql>
     <tools.apache.poi>1.0.0</tools.apache.poi>
